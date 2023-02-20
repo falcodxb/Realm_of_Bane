@@ -1,4 +1,5 @@
-![Title/Logo](https://raw.githubusercontent.com/falcodxb/Realm_of_Bane/main/icon.png)
+![Icon](https://i.imgur.com/PQObYOt.png)
+
 Keepin' it performant and balanced while including a lot of QoL features and content from various creators that'll keep you busy.
 
 ## Features
