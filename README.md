@@ -11,5 +11,5 @@ Keepin' it performant and balanced while including a lot of QoL features and con
 * and many more...
 
 # Notes
-## Restart the game after initial launch, this will ensure configurations are loaded correctly.
-## Create a new character, do not join world that were not created with this mod-pack.
+##### Restart the game after initial launch, this will ensure configurations are loaded correctly.
+##### Create a new character, do not join world that were not created with this mod-pack.
