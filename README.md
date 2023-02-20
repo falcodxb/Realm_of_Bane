@@ -1,6 +1,5 @@
 ![Icon](https://i.imgur.com/PQObYOt.png)
-
-Keepin' it performant and balanced while including a lot of QoL features and content from various creators that'll keep you busy.
+#### Keepin' it performant and balanced while including a lot of QoL features and content from various creators that'll keep you busy.
 
 ## Features
 * QoL features
