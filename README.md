@@ -1,5 +1,5 @@
 ![Icon](https://i.imgur.com/PQObYOt.png)
-#### Keepin' it performant and balanced while including a lot of QoL features and content from various creators that'll keep you busy.
+#### Trying to cover all bases while keepin' it performant and balanced. This modpack includes has plenty of content from various creators, and QoL features that will assist you in the game.
 
 ## Features
 * QoL features
@@ -10,6 +10,6 @@
 * Auga-style user interface
 * and many more...
 
-# Notes
+## Notes
 ### Restart the game after initial launch, this will ensure configurations are loaded correctly.
 ### Create a new character, do not join world that were not created with this mod-pack.
