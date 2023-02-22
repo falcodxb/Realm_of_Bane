@@ -1,4 +1,2 @@
-## Changelog
-
 #### v2.0.0
 * The overhaul begins... and the changelog to be written...
