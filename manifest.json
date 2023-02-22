@@ -13,7 +13,6 @@
         "JewelHeim-QOLHeim-0.0.15",
         "Marlthon-AirAnimals-0.1.0",
         "Marlthon-Cats-0.1.2",
-        "Marlthon-Dogs-0.0.1",
         "Marlthon-SeaAnimals-0.1.5",
         "MonsterLabZ-MonsterLabZ-2.9.7",
         "OdinPlus-Bamboozled-1.0.16",
@@ -55,6 +54,6 @@
     ],
     "description": "Coverin' all bases and filling the gaps with performance and balance in mind.",
     "name": "Realm_of_Bane",
-    "version_number": "1.2.6",
+    "version_number": "2.0.1",
     "website_url": "https://github.com/falcodxb/Realm_of_Bane/"
 }
