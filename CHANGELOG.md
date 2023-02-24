@@ -1,3 +1,6 @@
+#### v2.0.3
+* Disabled custom tooltips from BetterUI. Magic item tips will now show on weapons.
+
 #### v2.0.2
 * Added Goldenrevolver-Quick_Stack_Store_Sort_Trash_Restock
 * Added Azumatt-AzuAutoStore
