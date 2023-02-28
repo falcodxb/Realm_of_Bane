@@ -1,3 +1,6 @@
+#### v2.0.4
+* Updated mods.
+
 #### v2.0.3
 * Disabled custom tooltips from BetterUI. Magic item tips will now show on weapons.
 
